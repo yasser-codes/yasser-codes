@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **elkhanchouf.yasser@gmail.com**
 
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d3e70ec8-8d0f-4846-8273-27f59e40709a" /> Send me anonymous messages **elkhanchouf.yasser@gmail.com**
+- <img width="15" height="20" alt="image" src="https://github.com/user-attachments/assets/d3e70ec8-8d0f-4846-8273-27f59e40709a" /> [Send me anonymous messages](https://tellonym.me/Yasser_Coder)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasser-el-khanchouf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elkhanchouf.yasser@gmail.com) 
