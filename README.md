@@ -1,4 +1,4 @@
-<img width="512" height="105" alt="image" src="https://github.com/user-attachments/assets/c4435a88-70a6-460e-9595-d799c7609bd9" /><h1 align="center">Hi 👋, I'm El khanchouf Yasser</h1>
+Hi 👋, I'm El khanchouf Yasser</h1>
 <h3 align="center">Fullstack Developer Passionate About New Technologies</h3>
 
 - 🌱 I’m currently learning **Ai agents**
